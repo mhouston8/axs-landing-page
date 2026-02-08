@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2026 AxioScan. All rights reserved.</p>
+          <p>&copy; 2026 Brevix Ventures LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>
