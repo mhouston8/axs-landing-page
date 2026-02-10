@@ -10,6 +10,11 @@ export default function Navbar() {
       <div className="navbar-container">
         <div className="navbar-logo">
           <Link to="/">
+            <img 
+              src="/assets/axio-scan-app-icon.png" 
+              alt="AxioScan" 
+              className="navbar-logo-icon"
+            />
             <h2>AxioScan</h2>
           </Link>
         </div>
