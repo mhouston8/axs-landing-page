@@ -17,7 +17,7 @@ export default function CTA() {
           >
             Download on App Store
           </a>
-          <button className="cta-button secondary">Learn More</button>
+          <a href="#features" className="cta-button secondary">Learn More</a>
         </div>
         <p className="cta-note">Available for iPhone and iPad • Free to download</p>
       </div>

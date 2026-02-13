@@ -22,7 +22,7 @@ export default function Hero() {
             >
               Download on App Store
             </a>
-            <button className="hero-button secondary">Learn More</button>
+            <a href="#features" className="hero-button secondary">Learn More</a>
           </div>
           <div className="hero-stats">
             <div className="stat">
