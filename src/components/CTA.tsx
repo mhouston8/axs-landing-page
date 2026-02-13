@@ -9,7 +9,14 @@ export default function CTA() {
           Start scanning, editing, and managing your documents like a pro. Download AxioScan free from the App Store.
         </p>
         <div className="cta-buttons">
-          <button className="cta-button primary">Download on App Store</button>
+          <a 
+            href="https://apps.apple.com/us/app/axio-scan/id6758864185" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="cta-button primary"
+          >
+            Download on App Store
+          </a>
           <button className="cta-button secondary">Learn More</button>
         </div>
         <p className="cta-note">Available for iPhone and iPad • Free to download</p>

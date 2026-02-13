@@ -14,7 +14,14 @@ export default function Hero() {
             and export in the format that you need. Your all-in-one document scanning solution.
           </p>
           <div className="hero-buttons">
-            <button className="hero-button primary">Download on App Store</button>
+            <a 
+              href="https://apps.apple.com/us/app/axio-scan/id6758864185" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="hero-button primary"
+            >
+              Download on App Store
+            </a>
             <button className="hero-button secondary">Learn More</button>
           </div>
           <div className="hero-stats">
