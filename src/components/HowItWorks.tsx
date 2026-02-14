@@ -20,7 +20,7 @@ const steps: Step[] = [
   {
     number: '3',
     title: 'Edit & Enhance',
-    description: 'Crop, rotate, adjust brightness and contrast. Apply filters, remove backgrounds, or add annotations and signatures.'
+    description: 'Crop, rotate, adjust brightness/contrast. Apply filters, remove backgrounds, or add annotations and signatures.'
   },
   {
     number: '4',
