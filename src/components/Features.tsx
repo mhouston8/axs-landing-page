@@ -20,7 +20,7 @@ const features: Feature[] = [
   {
     icon: '✨',
     title: 'Edit & Enhance',
-    description: 'Crop, rotate, and adjust brightness and contrast. Apply filters and remove backgrounds for professional results.'
+    description: 'Crop, rotate, and adjust brightness/contrast. Apply filters or remove backgrounds for professional results.'
   },
   {
     icon: '✍️',
